@@ -1,5 +1,5 @@
 import Footer from './components/Footer';
-import DownloadForm from './components/Download';
+import DownloadForm from './components/DownloadForm';
 import Header from './components/Header';
 import Navigation from './components/Navigation';
 import FeaturesSection from './components/FeaturesSection';
