@@ -13,7 +13,7 @@ import toast, { Toaster } from 'react-hot-toast';
 
 
 
-const API_BASE = 'http://127.0.0.1:5000/api';
+const API_BASE = 'http://localhost:5000/api';
 
 const validateYouTubeUrl = (url) => {
     const regex = /^(https?:\/\/)?(www\.)?(youtube\.com|youtu\.be)\/.+$/;
